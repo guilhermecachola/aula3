@@ -1,8 +1,7 @@
 #ifndef COMMON_H
 #define COMMON_H
 
-// Not really the correct place, but this file is included where it is necessary,
-// and it did not feel like making a new file just for this was justified.
+
 
 #define TICKS_MS 10
 

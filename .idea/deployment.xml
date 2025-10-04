@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="On explicit save action" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" autoUploadExternalChanges="true">
+    <option name="confirmBeforeUploading" value="false" />
     <serverData>
-      <paths name="VMOS (cb426fea-60b5-49a6-8d7a-155ea1b671f4)">
+      <paths name="Remote Host (96742335-7c73-4758-8844-c61823ba0a42)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.A5eIH6962J/Aula3-2025ULHT" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.NPhFPwB2aF/aula3" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
             <excludedPath local="true" path="$PROJECT_DIR$/scheduler_examples/cmake-build-debug" />
           </excludedPaths>
         </serverdata>
       </paths>
+      <paths name="a">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aluno/aula3" local="$PROJECT_DIR$" web="http://github.com/guilhermecachola/aula3" />
+          </mappings>
+        </serverdata>
+      </paths>
     </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>
